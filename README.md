@@ -32,11 +32,21 @@ shamathmicagann1(https://www.hackerrank.com/profile/shamathmicagann1)
 
 ## HackerRank Badges
 
-*Badge screenshots will be added after completing the required HackerRank milestone.*
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/50ab5d6f-c334-4b1c-a553-bb96f1a8d030" />
+
 
 ## Submission Screenshots
 
-*Accepted submission screenshots will be added here.*
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/04e6e96a-c2ce-4897-b346-617af4235154" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/6dbe51e6-88a5-4008-96cc-135a5a6158b6" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/7d2b7b5f-e813-40b9-81ec-b0bd10f282dc" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/4a69b8b0-c179-4997-8a13-1c721197fbee" />
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/ee787785-d276-4308-8001-0a749ae69e71" />
+
+
+
+
+
 
 ## Reflection
 
