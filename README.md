@@ -12,14 +12,13 @@ shamathmicagann1(https://www.hackerrank.com/profile/shamathmicagann1)
 
 
 ## Problems Solved
-
 | No. | Problem | Topic | Time Complexity | Space Complexity | Status |
 |-----|---------|-------|-----------------|------------------|--------|
 | 1 | Diagonal Difference | 2D Arrays / Matrices | O(N) | O(1) | Accepted |
-| 2 | Dynamic Array | Data Structures / Vectors | O(N + Q) | O(N) | Pending |
-| 3 | Time Conversion | Strings & Logic | O(1) | O(1) | Pending |
-| 4 | Compare the Triplets | Basic Implementation | O(1) | O(1) | Pending |
-| 5 | Sparse Arrays | Hash Maps / Strings | O(N + Q) | O(N) | Pending |
+| 2 | Dynamic Array | Data Structures / Vectors | O(N + Q) | O(N) | Accepted |
+| 3 | Time Conversion | Strings & Logic | O(1) | O(1) | Accepted |
+| 4 | Compare the Triplets | Basic Implementation | O(1) | O(1) | Accepted |
+| 5 | Sparse Arrays | Hash Maps / Strings | O(N + Q) | O(N) | Accepted |
 
 ## Skills Practiced
 
