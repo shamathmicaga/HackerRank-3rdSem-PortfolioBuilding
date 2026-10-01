@@ -8,7 +8,8 @@ This repository contains my solutions for the HackerRank Algorithmic Problem-Sol
 
 ## HackerRank Profile
 
-[My HackerRank Profile](PASTE-YOUR-HACKERRANK-PROFILE-LINK-HERE)
+shamathmicagann1(https://www.hackerrank.com/profile/shamathmicagann1)
+
 
 ## Problems Solved
 
